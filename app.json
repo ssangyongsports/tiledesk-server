@@ -65,3 +65,7 @@
       "description": "Autoindex",
       "value": true
     }
+  },
+  "image": "heroku/nodejs",
+  "addons": [""]
+}
