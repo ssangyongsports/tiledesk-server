@@ -67,4 +67,7 @@
     }
   },
   "image": "heroku/nodejs",
+      }
+    }
+  }
 }
