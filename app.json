@@ -67,7 +67,5 @@
     }
   },
   "image": "heroku/nodejs",
-      }
-    }
-  }
+  "addons": ["heroku-postgresql"]
 }
